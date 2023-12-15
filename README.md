@@ -1,3 +1,4 @@
 # testrules
 
 new
+3
